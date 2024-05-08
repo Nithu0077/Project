@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T09:05:50 IST" name="Default suite" finished-at="2024-03-05T09:05:50 IST" duration-ms="84">
+    <groups>
+      <group name="smoke">
+        <method signature="Testngflow.testMethod2()[pri:0, instance:com.cg.testng.Testngflow@60099951]" name="testMethod2" class="com.cg.testng.Testngflow"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-03-05T09:05:50 IST" name="Default test" finished-at="2024-03-05T09:05:50 IST" duration-ms="84">
+      <class name="com.cg.testng.Testngflow">
+        <test-method is-config="true" signature="suitMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="suitMethod" finished-at="2024-03-05T09:05:50 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suitMethod -->
+        <test-method is-config="true" signature="BeforeTestMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="BeforeTestMethod" finished-at="2024-03-05T09:05:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestMethod -->
+        <test-method is-config="true" signature="BeforeClassMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="BeforeClassMethod" finished-at="2024-03-05T09:05:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClassMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="beforeMethod" finished-at="2024-03-05T09:05:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="testMethod" finished-at="2024-03-05T09:05:50 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="afterMethod" finished-at="2024-03-05T09:05:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="beforeMethod" finished-at="2024-03-05T09:05:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod2()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="testMethod2" finished-at="2024-03-05T09:05:50 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="afterMethod" finished-at="2024-03-05T09:05:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="AfterClassMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="AfterClassMethod" finished-at="2024-03-05T09:05:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClassMethod -->
+        <test-method is-config="true" signature="AfterTestMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:50 IST" name="AfterTestMethod" finished-at="2024-03-05T09:05:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestMethod -->
+        <test-method is-config="true" signature="aftersuitMethod()[pri:0, instance:com.cg.testng.Testngflow@60099951]" started-at="2024-03-05T09:05:51 IST" name="aftersuitMethod" finished-at="2024-03-05T09:05:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuitMethod -->
+      </class> <!-- com.cg.testng.Testngflow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

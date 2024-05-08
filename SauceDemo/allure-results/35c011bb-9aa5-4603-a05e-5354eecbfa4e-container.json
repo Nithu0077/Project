@@ -1,0 +1,1 @@
+{"uuid":"35c011bb-9aa5-4603-a05e-5354eecbfa4e","name":"Scenario: user is able to navigate to cart page and click on continue shopping button and validate user can navigate back to home page","children":["e13a78e5-2a62-415a-a4f7-b003846d434c"],"befores":[],"afters":[],"start":1705641954769,"stop":1705641962291}

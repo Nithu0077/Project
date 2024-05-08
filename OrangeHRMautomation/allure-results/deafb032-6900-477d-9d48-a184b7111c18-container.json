@@ -1,0 +1,1 @@
+{"uuid":"deafb032-6900-477d-9d48-a184b7111c18","name":"Scenario: Verify whether user can login to OrangeHRM and create a new System User and logout.","children":["06183b4e-8df4-4875-925d-3ea292c81436"],"befores":[],"afters":[],"start":1706182595213,"stop":1706182625993}

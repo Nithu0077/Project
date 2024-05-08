@@ -1,0 +1,49 @@
+package stepdefinition;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+
+import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class AddCustomer {
+	WebDriver driver=new EdgeDriver();
+	@Given("user should enter the login page")
+public void user_should_enter_the_login_page() {
+    
+}
+
+@When("user should click bankmanager")
+public void user_should_click_bankmanager() {
+   
+}
+
+@And("user should addcustomer and enter the customer details")
+public void user_should_addcustomer_and_enter_the_customer_details() {
+    // Write code here that turns the phrase above into concrete actions
+   
+}
+
+@And("user should validate the popup click ok")
+public void user_should_validate_the_popup_click_ok() {
+    
+}
+
+@And("user sholud click open account and add details of customer")
+public void user_sholud_click_open_account_and_add_details_of_customer() {
+    
+}
+
+@And("user should check the popup click on ok")
+public void user_should_check_the_popup_click_on_ok() {
+   
+}
+
+@Then("user should go to customer and go to newly created account")
+public void user_should_go_to_customer_and_go_to_newly_created_account() {
+   
+}
+
+}

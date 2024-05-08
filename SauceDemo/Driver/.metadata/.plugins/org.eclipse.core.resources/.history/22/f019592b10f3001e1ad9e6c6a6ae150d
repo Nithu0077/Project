@@ -1,0 +1,16 @@
+package pagefactory;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.support.FindBy;
+
+public class CreateCustomer {
+	WebDriver driver=new EdgeDriver();
+	@FindBy(xpath="//button[text()='Bank Manager Login']")WebElement Bank;
+	@FindBy(xpath="//button[@ng-class='btnClass1']")WebElement Addcustomer;
+	@FindBy(xpath="//button[@type='submit']")WebElement submit;
+	@FindBy()
+	
+
+}

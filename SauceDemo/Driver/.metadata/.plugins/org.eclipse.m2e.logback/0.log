@@ -1,0 +1,273 @@
+2024-04-05 10:16:49,907 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-05 10:19:58,641 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [605])
+2024-04-05 10:19:58,647 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2024-04-05 10:19:58,648 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2024-04-05 10:19:58,654 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2024-04-05 10:19:58,655 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2024-04-05 10:19:58,655 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2024-04-05 10:19:58,655 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2024-04-05 10:19:58,656 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2024-04-05 10:19:58,656 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2024-04-05 10:19:58,656 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2024-04-05 10:19:58,656 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2024-04-05 10:19:58,656 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2024-04-05 10:19:58,656 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2024-04-05 10:19:58,657 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2024-04-05 10:19:58,657 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2024-04-05 10:19:58,657 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2024-04-05 10:19:58,657 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2024-04-05 10:19:58,658 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2024-04-05 10:19:58,658 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-04-05 10:19:58,658 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2024-04-05 10:19:58,658 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2024-04-05 10:19:58,658 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2024-04-05 10:19:58,658 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-04-05 10:19:58,658 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2024-04-05 10:19:58,659 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2024-04-05 10:19:58,659 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2024-04-05 10:19:58,659 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2024-04-05 10:19:58,659 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2024-04-05 10:19:58,659 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2024-04-05 10:19:58,659 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-04-05 10:19:58,659 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-04-05 10:19:58,660 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2024-04-05 10:19:58,660 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2024-04-05 10:19:58,660 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2024-04-05 10:19:58,660 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2024-04-05 10:19:58,660 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2024-04-05 10:19:58,661 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2024-04-05 10:19:58,661 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2024-04-05 10:19:58,661 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2024-04-05 10:19:58,661 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2024-04-05 10:19:58,663 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [10])
+2024-04-05 10:19:58,664 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2024-04-05 10:19:58,665 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [917])
+2024-04-05 10:19:58,666 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2024-04-05 10:19:58,667 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [32])
+2024-04-05 10:19:58,668 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-04-05 10:19:58,669 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [30])
+2024-04-05 10:19:58,670 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\NP16\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2024-04-05 10:19:58,682 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\NP16\AppData\Local\Temp\m2e-archetypeGenerator16505531905370380231":
+2024-04-05 10:19:58,685 [Worker-16: Launching mavenrun-d564a66d-55a7-4834-adcb-287f2aefe724] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=com.capgemini -DartifactId=XYZbank -Dversion=0.0.1-SNAPSHOT -Dpackage=com.capgemini.XYZbank -DoutputDirectory=C:\Users\NP16\eclipse-workspace\SauceDemo\Driver -Dstyle.color=always -U archetype:generate
+2024-04-05 10:20:08,737 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\pom.xml
+2024-04-05 10:20:09,299 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:XYZbank:0.0.1-SNAPSHOT @ C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\pom.xml.
+2024-04-05 10:20:09,724 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /XYZbank/src/main/java
+2024-04-05 10:20:09,730 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /XYZbank/src/test/java
+2024-04-05 10:20:09,845 [Worker-17: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-04-05 10:20:10,573 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:20:10,574 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:20:10,578 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:20:10,579 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:20:39,247 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:20:39,248 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:20:39,250 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:20:39,250 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:21:25,532 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:21:25,532 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:21:25,535 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:21:25,536 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:22:35,672 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:22:35,673 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:22:35,675 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:22:35,676 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:22:50,706 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:22:50,707 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:22:50,709 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:22:50,709 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:23:16,373 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:23:16,373 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:23:16,375 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:23:16,375 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:23:30,228 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:23:30,228 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:23:30,230 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:23:30,230 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:23:51,916 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:23:51,916 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:23:51,920 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:23:51,920 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:24:58,169 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:24:58,170 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:24:58,174 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:24:58,174 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:24:59,197 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:24:59,197 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:24:59,199 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:24:59,200 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:25:04,721 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:25:04,722 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:25:04,726 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:25:04,727 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:25:38,739 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:25:38,739 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:25:38,742 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:25:38,742 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:27:39,245 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:27:39,246 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:27:39,248 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:27:39,248 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:29:18,148 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:29:18,149 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:29:18,152 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:29:18,152 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:30:13,054 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:30:13,055 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:30:13,056 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:30:13,056 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:44:22,977 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:44:22,979 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:44:22,980 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:44:22,980 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:59:01,379 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:XYZbank:0.0.1-SNAPSHOT @ C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\pom.xml.
+2024-04-05 10:59:01,990 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:59:01,991 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:59:01,994 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:59:01,995 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 10:59:03,434 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:59:03,435 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 10:59:03,438 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 10:59:03,438 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:01:28,771 [Worker-31: Launching newcustomer.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:01:28,771 [Worker-31: Launching newcustomer.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:01:28,774 [Worker-31: Launching newcustomer.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:01:28,775 [Worker-31: Launching newcustomer.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:04:47,269 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:04:47,269 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:04:47,271 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:04:47,289 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:09:53,117 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:09:53,117 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:09:53,119 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:09:53,120 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:18:46,890 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:18:46,890 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:18:46,891 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:18:46,892 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:20:06,407 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:20:06,407 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:20:06,409 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:20:06,409 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:25:48,347 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:25:48,347 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:25:48,350 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:25:48,350 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:34:09,023 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:34:09,023 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:34:09,025 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:34:09,025 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:35:18,313 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:35:18,313 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:35:18,314 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:35:18,314 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:43:01,519 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:43:01,519 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:43:01,521 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:43:01,522 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:44:13,085 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:44:13,085 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:44:13,086 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:44:13,086 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:47:06,037 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:47:06,037 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:47:06,039 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:47:06,040 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 11:57:50,531 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:57:50,532 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 11:57:50,533 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 11:57:50,534 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 12:01:18,700 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 12:01:18,700 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 12:01:18,702 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 12:01:18,703 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 14:41:39,299 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 14:41:39,300 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 14:41:39,303 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 14:41:39,303 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-05 14:59:49,318 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 14:59:49,318 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-05 14:59:49,321 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-05 14:59:49,322 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 10:20:07,717 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-08 10:49:09,759 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 10:49:09,763 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 10:49:09,771 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 10:49:09,771 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 10:49:33,888 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 10:49:33,889 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 10:49:33,893 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 10:49:33,894 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:18:55,067 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:18:55,068 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:18:55,070 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:18:55,071 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:21:23,309 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:21:23,309 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:21:23,312 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:21:23,312 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:21:44,162 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:21:44,162 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:21:44,164 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:21:44,165 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:22:29,125 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:22:29,126 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:22:29,128 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:22:29,129 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:22:49,070 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:22:49,071 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:22:49,073 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:22:49,074 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:23:05,763 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:23:05,763 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:23:05,765 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:23:05,765 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:23:40,858 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:23:40,858 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:23:40,861 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:23:40,861 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:24:07,133 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:24:07,134 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:24:07,136 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:24:07,136 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:24:40,218 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:24:40,218 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:24:40,220 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:24:40,220 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:25:37,712 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:25:37,713 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:25:37,714 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:25:37,715 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:29:47,812 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:29:47,812 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:29:47,813 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:29:47,814 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:35:56,740 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:35:56,741 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:35:56,745 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:35:56,745 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:45:48,761 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:45:48,762 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:45:48,766 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:45:48,766 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:46:08,337 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:46:08,337 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:46:08,339 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:46:08,340 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:46:16,268 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:46:16,268 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:46:16,270 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:46:16,270 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:46:28,268 [Worker-41: Launching newrunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:46:28,269 [Worker-41: Launching newrunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:46:28,275 [Worker-41: Launching newrunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:46:28,275 [Worker-41: Launching newrunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 12:49:02,457 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-08 12:52:25,538 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-08 12:52:28,719 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:52:28,722 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 12:52:28,727 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 12:52:28,727 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 13:06:13,574 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 13:06:13,576 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\main\resources
+2024-04-08 13:06:13,581 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-08 13:06:13,581 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NP16\eclipse-workspace\SauceDemo\Driver\XYZbank\src\test\resources
+2024-04-08 16:01:25,928 [Worker-20: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
